@@ -1,0 +1,14 @@
+.login-body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("https://cdn.wallpapersafari.com/55/16/1lkj7n.jpg");
+}
+.login-form {
+  border: black;
+  border-style: double;
+  width: 350px;
+  height: 350px;
+  background-color: #d6d3d1;
+}
